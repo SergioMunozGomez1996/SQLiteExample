@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/buckup"
+        android:title="Crear Buckup">
+    </item>
+    <item
+        android:id="@+id/restaurar"
+        android:title="Restaurar Buckup">
+    </item>
+    <item
+        android:id="@+id/usuarios"
+        android:title="Gestionar usuarios">
+    </item>
+</menu>
